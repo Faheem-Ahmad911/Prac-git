@@ -7,5 +7,9 @@ print(1)
 print(1233)
 
 print("FLOAT")
+
+
+
+print(123)
 print("123")
 print("ERROR")
