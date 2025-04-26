@@ -7,7 +7,7 @@ print(123)
 
 print(1)
 print(1233)
-
+print("123")
 print("FLOAT")
 
 
