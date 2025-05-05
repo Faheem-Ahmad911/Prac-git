@@ -7,3 +7,4 @@ print(True)
 print(abg) # this is error 
 print(nkdf # this is syntax error
 13 #this is another error 
+print()
