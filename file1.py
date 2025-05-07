@@ -5,6 +5,5 @@ print(12.3)
 print("ABC")
 print(True)
 
-print(nkdf # this is syntax error
 
 print()
